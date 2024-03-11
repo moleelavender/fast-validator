@@ -1,0 +1,23 @@
+{
+  "name": "tiny-fast-validator",
+  "version": "0.3.2",
+  "description": "Simple and fast data validation library for forms and JSON data, supporting a variety of common validation needs.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Max Magregor",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.7.0",
+    "lodash": "^4.17.21",
+    "yup": "^0.32.9",
+    "email-validator": "^2.0.4",
+    "joi": "^17.4.0",
+    "moment": "^2.29.1"
+  }
+}
